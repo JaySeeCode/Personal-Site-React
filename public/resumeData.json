@@ -1,0 +1,245 @@
+{
+  "main": {
+    "name":"Juan Carlos Gonzalez",
+    "occupation":"Web developer",
+    "description":"I design and program websites and web applications with a specialization on the MERN Stack",
+    "image":"fullHeadshot.JPG",
+    "bio":"Web developer in training seeking for an opportunity to seriously enter the field of web development and gaining professional working experience. Will be graduating from UNCC Full-Stack Web Development Coding Bootcamp in August 2017. I've been practicing and studying Aikido for 11 years.",
+    "email": "jcgonzalezmolina@gmail.com",
+    "phone": "704-806-8267",
+    "address":{
+      "street":"9245 Glenwater Dr. Apt. 111",
+      "city":"Charlotte",
+      "state":"NC",
+      "zip": "28262"
+    },
+    "website": "http://www.something.com",
+    "resumeDownload":"http://localhost:3000/myResume.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/junior_webdev",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/juan-carlos-gonzalez-890145134/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/JaySeeCode",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ],
+    "stack": [
+      {
+        "name": "node.js",
+        "image": "nodejs-logo.svg",
+        "className": "nodeLogo"
+      },
+      {
+        "name": "express",
+        "image": "express-logo.png",
+        "className": "expressLogo"
+      },
+      {
+        "name": "mongodb",
+        "image": "mongodb-logo.svg",
+        "className": "mongoLogo"
+      },
+      {
+        "name": "react",
+        "image": "react-logo.svg",
+        "className": "reactLogo"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of North Carolina Charlotte",
+        "degree":"Full-Stack Web Development Certificate",
+        "graduation":"August 2017",
+        "description": "Six month long training to obtain a Full-Stack Web Development Certificate from the University of North Carolina Charlotte with a specialization on the MERN Stack."
+      },
+      {
+        "school":"Central Piedmont Community College",
+        "degree":"Associate of Arts",
+        "graduation":"August 2014",
+        "description": "Well rounded education in Liberal Arts."
+      }
+    ],
+    "work":[
+      {
+        "company":"UNCC Coding Bootcamp",
+        "title":"Full Stack Web Developer in Training",
+        "years":"February 2017 - Present",
+        "description": [
+          "• Six months of intensive training in a curriculum that covers the skills necessary to become an able front and/or back-end developer. Graduation is in August 2017."
+        ]
+      },
+      {
+        "company":"Domino's Pizza",
+        "title":"Delivery Driver",
+        "years":"September 2016 - Present",
+        "description": [
+          "• Take phone calls, take orders and provide customers with information on how long their order delivery will take.",
+          "• Bag ordered items, map route on the GPS or look through map to determine shortest and safest route to destination(s).",
+          "• Receive cash payments and tender exact change, or collect customer’s signature on credit card receipt."
+        ]
+      },
+      {
+        "company":"Dust Away Cleaning Service",
+        "title":"Janitor",
+        "years":"August 2015 - September 2016",
+        "description": [
+          "• Serviced and cleaned restrooms; gathered and emptied the trash from multiple work areas; dusted furniture, desks, and countertops; monitored building security and safety by performing such tasks as locking doors after operating hours and setting up of alarm security system.",
+          "• Cleaned building floors by sweeping, mopping and vacuuming; cleaned windows with proper equipment (paper, dry rags) using appropriate chemical solutions.",
+          "• Ordered supplies needed for cleaning and maintenance duty."
+        ]
+      },
+      {
+        "company":"HMS Host / Starbucks",
+        "title":"Shift Supervisor",
+        "years":"January 2014 - October 2014",
+        "description": [
+          "• Raised and maintained customer service and store cleanliness standards.",
+          "• Implemented a systematic routine known as “Playbook” designed to keep store at peak performance at all times.",
+          "• Organized staff breaks while ensuring adequate coverage at all times."
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML / CSS",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"jQuery",
+        "level":"65%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"60%"
+      },
+      {
+        "name":"Node.js & Express",
+        "level":"65%"
+      },
+      {
+        "name":"MySQL & Sequelize",
+        "level":"40%"
+      },
+      {
+        "name":"MongoDB & Mongoose",
+        "level":"55%"
+      },
+      {
+        "name":"Handlebars",
+        "level":"40%"
+      },
+      {
+        "name":"React",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"FizzBuzz",
+        "description":"My personal attempt at the FizzBuzz challenge with code solution and output provided.",
+        "category":"Computer Science",
+        "tags":"Logic, Programming, Computer Science",
+        "image":"coffee.jpg",
+        "url":"http://port1.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Console",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Design",
+        "tags":"Branding, Web Development",
+        "image":"console.jpg",
+        "url":"http://port2.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Judah",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"judah.jpg",
+        "url":"http://port3.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Into The Light",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Design",
+        "image":"into-the-light.jpg",
+        "url":"http://port4.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Farmer Boy",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Branding",
+        "tags":"Branding, Web Design",
+        "image":"farmerboy.jpg",
+        "url":"http://port5.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Girl",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Graphic Design",
+        "image":"girl.jpg",
+        "url":"http://port6.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"Origami",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustration",
+        "tags":"Branding, Illustration",
+        "image":"origami.jpg",
+        "url":"http://port7.com",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Retrocam",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Photography",
+        "image":"retrocam.jpg",
+        "url":"http://port8.com",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"John Doe"
+      },
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"Steve Smith"
+      }
+    ]
+  }
+}
